@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +10,25 @@ Currently, two official plugins are available:
 =======
 
 >>>>>>> d87a1e8fe5dc0fed8a07b699fd174f1e67de94cd
+# info 
+Greenchilies is an e-commerce web application built with the MERN stack (MongoDB, Express, React, Node.js). It provides a seamless shopping experience with a user-friendly interface and essential e-commerce functionalities.
+
+# Features
+
+Add to Cart Page: Users can easily add items to their shopping cart for convenient checkout.
+Admin Page: An intuitive admin interface for managing products, categories, and orders.
+Payment Integration: Secure payment processing using Stripe for transactions.
+User Authentication: Supports login and signup functionalities for account management.
+# Tech Stack
+MongoDB: NoSQL database for data storage.
+Express: Web framework for building the backend.
+React: Frontend library for creating interactive user interfaces.
+Node.js: JavaScript runtime for server-side development.
+
+# installation
+
+# clone repo 
+ git clone https://github.com/yourusername/greenchilies.git
+ cd greenchilies
+
+
