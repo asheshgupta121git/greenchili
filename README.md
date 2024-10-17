@@ -15,15 +15,15 @@ Greenchilies is an e-commerce web application built with the MERN stack (MongoDB
 
 # Features
 
-Add to Cart Page: Users can easily add items to their shopping cart for convenient checkout.
-Admin Page: An intuitive admin interface for managing products, categories, and orders.
-Payment Integration: Secure payment processing using Stripe for transactions.
-User Authentication: Supports login and signup functionalities for account management.
+- Add to Cart Page: Users can easily add items to their shopping cart for convenient checkout.
+- Admin Page: An intuitive admin interface for managing products, categories, and orders.
+- Payment Integration: Secure payment processing using Stripe for transactions.
+- User Authentication: Supports login and signup functionalities for account management.
 # Tech Stack
-MongoDB: NoSQL database for data storage.
-Express: Web framework for building the backend.
-React: Frontend library for creating interactive user interfaces.
-Node.js: JavaScript runtime for server-side development.
+- MongoDB: NoSQL database for data storage.
+- Express: Web framework for building the backend.
+- React: Frontend library for creating interactive user interfaces.
+- Node.js: JavaScript runtime for server-side development.
 
 # installation
 
