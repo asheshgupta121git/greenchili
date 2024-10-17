@@ -28,7 +28,29 @@ Greenchilies is an e-commerce web application built with the MERN stack (MongoDB
 # installation
 
 # clone repo 
- git clone https://github.com/yourusername/greenchilies.git
- cd greenchilies
+ - git clone https://github.com/yourusername/greenchilies.git
+ - cd greenchilies
+# Install backend dependencies:
+- cd backend
+- npm install
+
+# Install frontend dependencies:
+- cd frontend
+- npm install
+
+# Set up your environment variables in a .env file in the backend directory, including your Stripe API keys and MongoDB connection string.
+
+# Start the backend server
+- cd backend
+- npm start
+
+# Start the frontend application
+- cd frontend
+- npm start
+
+# USAGE
+- Navigate to http://localhost:3000 in your browser to access the application.
+- Use the login/signup features to create an account or log in.
+- Browse products, add items to your cart, and proceed to checkout using Stripe.
 
 
